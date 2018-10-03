@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1538551053216.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "878208294",
+    "id" : "D8CBD14A",
+    "lastKnownWriteTime" : 1538551126,
+    "last_content_update" : 1538556454968,
+    "path" : "C:/Users/NTPU/Desktop/practice1003/practice1003.Rmd",
+    "project_path" : "practice1003.Rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "43,50",
+        "scrollLine" : "27",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

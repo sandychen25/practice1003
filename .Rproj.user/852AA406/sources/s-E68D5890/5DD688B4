@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1538556364345.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5DD688B4",
+    "lastKnownWriteTime" : 7308604914264011873,
+    "last_content_update" : 1538556364345,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "789E5076",
+        "caption" : "filmVotingData",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=filmVotingData&cache_key=789E5076",
+        "displayedObservations" : 156,
+        "environment" : "",
+        "object" : "filmVotingData",
+        "preview" : 0,
+        "totalObservations" : 156,
+        "variables" : 3
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
